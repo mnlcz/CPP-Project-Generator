@@ -1,5 +1,5 @@
 # CPP-Project-Generator
-Basic powershell script that generates CMake based C++ projects
+Basic powershell script that generates CMake or Make based C++ projects
 
 # Parameters
 - Project name.
