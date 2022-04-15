@@ -5,8 +5,8 @@ Basic powershell script that generates CMake based C++ projects
 - Project name.
 - Project type:
   - `Make`: uses make template
-  - `Default`: uses default template.
-  - `Boost`: uses boost template.
+  - `Default`: uses default CMake template.
+  - `Boost`: uses boost CMake template.
 
 # Using *Boost* template
 The template assumes that you have 2 enviroment variables.
