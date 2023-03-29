@@ -1,9 +1,5 @@
-#include <iostream>
+#include "main.hpp"
 
-using std::cout;
-using std::endl;
-
-int main()
-{
-    cout << "hola" << endl;
+std::string hola() {
+    return "Hola mundo!";
 }
